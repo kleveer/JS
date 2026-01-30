@@ -1,0 +1,10 @@
+const str = 'Hello';
+const name1 = 'pashok'+ ' petushok';
+const str2 = `Hello ${name1}`;
+console.log(str);
+console.log(name1);
+console.log(str2);
+let res = 'sdfasv';
+console.log(res[2]);
+const nb  = null;
+console.log(typeof(nb));
